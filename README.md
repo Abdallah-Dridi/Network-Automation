@@ -1,3 +1,3 @@
 # Learning_scripts
-A repository that contains all the scripts I created through my learning journey
-over the university years
+This repository contains all the scripts I created with python 
+during my Network fundamentals learning journey.
